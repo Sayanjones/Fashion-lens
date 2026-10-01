@@ -1,4 +1,4 @@
-# Fashion-lens
+# FitLens
 
 A convolutional neural network that classifies 28x28 grayscale pictures of clothing into 10 categories, wrapped in a Streamlit web app and packaged as a Docker image so it runs the same way on any machine.
 
