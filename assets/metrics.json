@@ -1,0 +1,24 @@
+{
+  "seed": 0,
+  "epochs": 5,
+  "batch_size": 32,
+  "validation_split": 0.1,
+  "train_accuracy_last_epoch": 0.9199814796447754,
+  "val_accuracy_last_epoch": 0.9028333425521851,
+  "test_loss": 0.2860735356807709,
+  "test_accuracy": 0.8984000086784363,
+  "per_class_f1": {
+    "T-shirt/top": 0.8358066060315941,
+    "Trouser": 0.9848790322580645,
+    "Pullover": 0.8491228070175438,
+    "Dress": 0.9062049062049062,
+    "Coat": 0.8498498498498499,
+    "Sandal": 0.9766052762568442,
+    "Shirt": 0.6934619506966774,
+    "Sneaker": 0.9498783454987835,
+    "Bag": 0.9701869631126832,
+    "Ankle boot": 0.9578622816032888
+  },
+  "tensorflow": "2.21.0",
+  "keras": "3.15.1"
+}

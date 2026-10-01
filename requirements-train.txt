@@ -1,0 +1,7 @@
+# Everything needed to retrain the model and run the tests.
+# The app itself only needs app/requirements.txt.
+-r app/requirements.txt
+matplotlib==3.10.8
+scikit-learn==1.8.0
+pytest==9.1.1
+jupyterlab
