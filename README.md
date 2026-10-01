@@ -1,12 +1,8 @@
-# Fashion-lens: CNN, Streamlit app, Docker
+# Fashion-lens
 
 A convolutional neural network that classifies 28x28 grayscale pictures of clothing into 10 categories, wrapped in a Streamlit web app and packaged as a Docker image so it runs the same way on any machine.
 
-I rebuilt this from scratch while following Siddhardhan's end-to-end deep learning tutorial ([YouTube](https://youtu.be/sb2tm3pu17k), [original repo](https://github.com/siddhardhan23/fashion-mnist-end-to-end-project)). The structure and core idea come from there. The code, tests, evaluation and write-up are mine, and I changed a few things on purpose. Those changes are listed near the bottom so you can see what differs and why.
-
 Result on the 10,000-image test set: **89.84% accuracy**, loss 0.286, after 5 epochs of training. Details and the per-class breakdown are in [Results](#results).
-
-![Sample images, one per class](assets/sample_classes.png)
 
 ## Contents
 
