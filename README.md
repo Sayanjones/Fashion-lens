@@ -334,7 +334,7 @@ I also ran the Streamlit server locally and checked that `/_stcore/health` retur
 
 ## What I changed from the tutorial
 
-| Tutorial | This repo | Why |
+| Benchmark Source | This repo | Why |
 |---|---|---|
 | Saved as `.h5` | Saved as `.keras` | `.keras` is the native Keras 3 format. HDF5 is legacy and Keras warns about it. |
 | Test set also used as validation data | 10% of train held out for validation; test set used once at the end | Choosing epochs or settings by watching the test score makes that score optimistic. |
