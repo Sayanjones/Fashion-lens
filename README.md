@@ -393,7 +393,6 @@ Roughly in the order I would try them:
 
 ## Credits
 
-- Tutorial and original project: [Siddhardhan](https://github.com/siddhardhan23/fashion-mnist-end-to-end-project) ([video](https://youtu.be/sb2tm3pu17k)).
 - Dataset: Xiao, Rasul and Vollgraf, "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms", 2017 ([GitHub](https://github.com/zalandoresearch/fashion-mnist)).
 
 Built by Sayan Mandal ([GitHub](https://github.com/Sayanjones), [LinkedIn](https://www.linkedin.com/in/sayan-mandal7)).
